@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 }
 .common-section{
     margin: 0 auto;
@@ -11,7 +12,7 @@ body{
 }
 .parents{
     display: flex;
-    border-top: 200px;
+
    
 }
 #orange-color{
@@ -37,6 +38,7 @@ body{
 .right-side img{
     width: 70%;
     padding-left: 20px;
+    margin-left: 20px;
 }
 
 /*second-section*/
@@ -47,14 +49,14 @@ body{
     border: 5px solid rgb(240, 227, 227);
     margin-left: 5px;
     border-radius: 15px;
-    padding: 10px;
+    padding: 20px;
     
 }
 .same img{
     width: 50%;
 }
 .mission{
-    background-color: indianred;
+    background-color: rgb(221, 139, 139);
 }
 .vission{
     background-color: khaki;
@@ -67,4 +69,16 @@ body{
 .left-side img{
     width: 80%;
     margin-right: 20px;
+}
+p{
+    font-size: 10px;
+}
+.footer{
+    background-color: rgb(17, 16, 16);
+}
+#a{
+    text-align: center;
+    color: white;
+    padding: 20px;
+
 }
