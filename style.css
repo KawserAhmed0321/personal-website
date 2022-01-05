@@ -28,6 +28,7 @@ font-family: 'Titillium Web', sans-serif;
     padding: 10px 30px;
     border-radius: 5px;
     color: white;
+    box-shadow: 4px 4px 12px grey;
 }
 .left-side{
     width: 50%;
@@ -46,10 +47,11 @@ font-family: 'Titillium Web', sans-serif;
     text-align: center;
 }
 .same{
-    border: 5px solid rgb(240, 227, 227);
+    border: 2px solid rgb(240, 227, 227);
     margin-left: 5px;
     border-radius: 15px;
     padding: 20px;
+    box-shadow: 4px 4px 12px grey;
     
 }
 .same img{
