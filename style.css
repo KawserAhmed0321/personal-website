@@ -52,19 +52,25 @@ font-family: 'Poppins', sans-serif;
     border-radius: 15px;
     padding: 20px;
     box-shadow: 4px 4px 12px grey;
+    text-align: justify;
+    max-height: 400px;
+    max-height: 350px;
+
     
 }
 .same img{
-    width: 50%;
+    width: 150px;
 }
 .mission{
-    background-color: rgb(221, 139, 139);
+    background-color: lightblue;
+   
 }
 .vission{
     background-color: khaki;
 }
 .goals{
-    background-color: lightblue;
+    background-color: rgb(253, 200, 200);
+   
 }
 
 /*third-section*/
