@@ -7,7 +7,7 @@ font-family: 'Poppins', sans-serif;
 .common-section{
     margin: 0 auto;
     width: 80%;
-    margin-bottom: 100px;
+    margin-bottom:100px;
     
 }
 .parents{
@@ -94,7 +94,7 @@ font-family: 'Poppins', sans-serif;
 /*contact section*/
 .contact-form{
     border: 5px;
-    box-shadow: 4px 4px 12px rgb(82, 79, 79);
+   /* box-shadow: 4px 4px 12px rgb(82, 79, 79);*/
     margin-bottom: 50px;
     border-radius: 8px;
     
