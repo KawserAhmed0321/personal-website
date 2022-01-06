@@ -88,3 +88,50 @@ font-family: 'Poppins', sans-serif;
     padding: 20px;
 
 }
+
+
+
+/*contact section*/
+.contact-form{
+    border: 5px;
+    box-shadow: 4px 4px 12px rgb(82, 79, 79);
+    margin-bottom: 50px;
+    border-radius: 8px;
+    
+    
+}
+.headline{
+
+    text-align: center;
+    color: orangered;margin-bottom: 20px;
+}
+
+.left{
+    width: 50%;
+    margin-left:10px;
+}
+.left img{
+    width: 100%;
+    margin-top: 10px;
+}
+.right{
+
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+    padding-left: 40PX;
+    box-shadow: 4px 4px 12px gainsboro;
+    width: 50%;
+    background-color: rgb(235, 232, 233);
+
+   
+}
+.right input  {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 20px ;
+    
+}
+.right  textarea{
+    margin-bottom: 20px;
+}
